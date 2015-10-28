@@ -9,7 +9,7 @@ if __name__=='__main__':
 
     #FOR DEBUG PURPOSES:
     #sys.argv = ['C:/pdf-join.py', raw_input('Enter Path:'), raw_input('Enter destination filename:')]
-    sys.argv = ['C:/pdf-join.py', '-p', 'C:\Mayer']#, '-v']
+    #sys.argv = ['C:/pdf-join.py', '-p', 'C:\Mayer']#, '-v']
 
     parser = optparse.OptionParser()
 
